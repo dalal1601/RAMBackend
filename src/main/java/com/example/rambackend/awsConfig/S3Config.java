@@ -12,8 +12,6 @@ import org.springframework.context.annotation.Configuration;
 public class S3Config {
 
 
-    @Bean
-    public void s3Client() {
 
-    }
+
 }
