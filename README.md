@@ -1,4 +1,4 @@
-/* package com.example.rambackend.awsConfig;
+package com.example.rambackend.awsConfig;
 
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
 import com.amazonaws.auth.BasicAWSCredentials;
@@ -21,4 +21,4 @@ public class S3Config {
                .build();
 }
 }
-*/
+
